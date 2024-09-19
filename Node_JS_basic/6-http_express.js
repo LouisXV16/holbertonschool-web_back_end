@@ -1,4 +1,4 @@
-// Importer le module Express
+// Importer module Express
 const express = require('express');
 
 // Créer une application Express
